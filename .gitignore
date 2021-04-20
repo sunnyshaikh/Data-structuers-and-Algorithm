@@ -1,0 +1,5 @@
+# java classes
+*.class
+
+# C and C++ exe
+a.exe
