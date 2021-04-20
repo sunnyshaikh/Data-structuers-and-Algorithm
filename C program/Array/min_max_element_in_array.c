@@ -35,3 +35,6 @@ int main()
 
     return 0;
 }
+
+// Question from
+// https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/
